@@ -2,7 +2,7 @@
 
 This is a web application, where user can create flashcards and use them for different purposes.
 
-##Components
+## Components
 
 Header.jsx - Header / Navbar shown at the top of every page.
 Home.jsx - the home page of the website, where user can view my other projects.
