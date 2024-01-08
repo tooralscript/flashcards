@@ -29,4 +29,5 @@ The useEffect() hook in React allows developers to perform side effects in funct
 Run JSON server...  can be written without "npx" if you have installed json server globally. Server will run at port :3000
 4. npm run dev
 This command will run the project itself at port :5173.
+    npm run dev
 
