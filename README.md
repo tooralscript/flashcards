@@ -23,7 +23,10 @@ The useEffect() hook in React allows developers to perform side effects in funct
 ## Getting started
 
 1. Download this proejct as a zip folder, decompress it, and open in any code editor.
-2. Enter "npm install". It will install node modules, and check dependencies, and if you do not have Vite.js, it will install it as well.
-3. Run JSON server, by entering "npx json-server --watch database.json" or without npx if you have installed json server globally.
-4. Run the project, by entering "npm run dev".
+2. npm install
+ It will install node modules, and check dependencies, and if you do not have Vite.js, it will install it as well.
+3. npx json-server --watch database.json
+Run JSON server...  can be written without "npx" if you have installed json server globally. Server will run at port :3000
+4. npm run dev
+This command will run the project itself at port :5173.
 
