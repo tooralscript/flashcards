@@ -1,0 +1,81 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "currentSide": "front",
+      "frontText": "Azerbaijan",
+      "backText": "Baku",
+      "dateCreated": "2024-01-08T17:00:52.928Z",
+      "dateUpdated": "2024-01-08T17:03:31.117Z",
+      "currentStatus": "Learned"
+    },
+    {
+      "id": 2,
+      "currentSide": "front",
+      "frontText": "russia ",
+      "backText": "moscow",
+      "dateCreated": "2024-01-08T17:01:04.096Z",
+      "dateUpdated": "no updates yet",
+      "currentStatus": "Noted"
+    },
+    {
+      "id": 4,
+      "currentSide": "front",
+      "frontText": "usa",
+      "backText": "washington",
+      "dateCreated": "2024-01-08T17:01:19.295Z",
+      "dateUpdated": "no updates yet",
+      "currentStatus": "Learned"
+    },
+    {
+      "id": 5,
+      "currentSide": "front",
+      "frontText": "usa2",
+      "backText": "for test",
+      "dateCreated": "2024-01-08T17:04:25.960Z",
+      "dateUpdated": "no updates yet",
+      "currentStatus": "Want to Learn"
+    },
+    {
+      "id": 6,
+      "currentSide": "front",
+      "frontText": "new question",
+      "backText": "new answer",
+      "dateCreated": "2024-01-08T17:09:35.793Z",
+      "dateUpdated": "no updates yet",
+      "currentStatus": "Learned"
+    }
+  ],
+  "messages": [
+    {
+      "id": 1,
+      "subject": "hello",
+      "senderEmail": "turalhasanov650@gmail.com",
+      "content": "dear..."
+    },
+    {
+      "id": 2,
+      "subject": "homework",
+      "senderEmail": "turalhasanov650@gmail.com",
+      "content": "Dear,.... i ve missed the deadline , best...."
+    },
+    {
+      "id": 3,
+      "subject": "",
+      "senderEmail": "",
+      "content": ""
+    },
+    {
+      "id": 4,
+      "subject": "",
+      "senderEmail": "",
+      "content": ""
+    },
+    {
+      "id": 5,
+      "subject": "",
+      "senderEmail": "",
+      "content": ""
+    }
+  ]
+}

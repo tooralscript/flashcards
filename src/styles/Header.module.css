@@ -1,0 +1,39 @@
+.container {
+  width: 600px;
+  height: 50px;
+  border-radius: 20px;
+  background-color: rgb(21, 50, 169);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container > a {
+  width: 200px;
+  height: 50px;
+  /* border: 1px solid white; */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-size: 22px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: 0.3s all ease-in-out;
+  text-decoration: none;
+}
+
+.container > a:hover {
+  background-color: white;
+  color: rgb(21, 50, 169);
+}
+
+.container > a:nth-of-type(1) {
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+}
+
+.container > a:nth-of-type(3) {
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+}

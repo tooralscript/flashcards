@@ -1,0 +1,142 @@
+.container {
+  width: 100%;
+  /* height: 800px; */
+  background: rgb(0, 199, 209);
+  background: linear-gradient(
+    90deg,
+    rgb(15, 171, 180) 0%,
+    rgb(2, 145, 234) 100%
+  );
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 30px;
+}
+
+.container > span:nth-of-type(1) {
+  font-size: 36px;
+  font-weight: 600;
+  color: rgb(10, 8, 34);
+}
+
+.container > span:nth-of-type(2) {
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 20px;
+  font-style: italic;
+  color: rgb(10, 8, 34);
+}
+
+.container > span:nth-of-type(3) {
+  font-size: 24px;
+  font-weight: 500;
+  margin-top: 20px;
+  color: rgb(10, 8, 34);
+  text-align: center;
+}
+
+.container > span:nth-of-type(4) {
+  font-size: 30px;
+  font-weight: 600;
+  margin-top: 20px;
+  color: rgb(10, 8, 34);
+  text-align: center;
+}
+
+.projects {
+  border-radius: 20px;
+  margin-top: 30px;
+  padding: 30px;
+  width: 100%;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+  background-color: rgb(10, 8, 34);
+}
+
+.projects > span {
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+}
+
+.projectsBoxContainer {
+  width: 90%;
+  height: 170px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.box {
+  border-radius: 20px;
+  height: 100%;
+  width: 27%;
+  background-color: rgb(21, 50, 169);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  padding: 20px;
+}
+
+.box > span {
+  font-size: 28px;
+  font-weight: 500;
+  color: white;
+}
+
+.box > a {
+  text-decoration: none;
+  cursor: pointer;
+  color: white;
+  font-size: 24px;
+  font-weight: 500;
+  background-color: rgb(0, 199, 209);
+  background-color: rgb(10, 8, 34);
+  width: 70%;
+  height: 50px;
+  border-radius: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  transition: 0.3s all ease-in-out;
+}
+
+.box > a:hover {
+  background-color: rgb(0, 199, 209);
+  color: rgb(10, 8, 34);
+}
+
+.skills {
+  border-radius: 20px;
+  margin-top: 30px;
+  padding: 30px;
+  width: 100%;
+  height: 300px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+  background-color: rgb(10, 8, 34);
+}
+
+.skills > span {
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+}
+
+.skillsBoxContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 60px;
+}
+
+.skillsBoxContainer > i {
+  color: white;
+  font-size: 100px;
+}

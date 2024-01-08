@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "currentSide": "front",
+    "frontText": "2 + 2?",
+    "backText": "4",
+    "date": "2024-01-05T18:36:11.802Z",
+    "currentStatus": "Learned"
+  },
+  {
+    "id": 2,
+    "currentSide": "front",
+    "frontText": "Capital of France?",
+    "backText": "Paris",
+    "date": "2024-01-05T18:36:11.802Z",
+    "currentStatus": "Learned"
+  },
+  {
+    "id": 3,
+    "currentSide": "front",
+    "frontText": "Color of the sky?",
+    "backText": "Blue",
+    "date": "2024-01-05T18:36:11.802Z",
+    "currentStatus": "Learned"
+  },
+  {
+    "id": 4,
+    "currentSide": "front",
+    "frontText": "Day after Monday?",
+    "backText": "Tuesday",
+    "date": "2024-01-05T18:36:11.802Z",
+    "currentStatus": "Learned"
+  },
+  {
+    "id": 5,
+    "currentSide": "front",
+    "frontText": "3 x 3?",
+    "backText": "9",
+    "date": "2024-01-05T18:36:11.802Z",
+    "currentStatus": "Learned"
+  },
+  {
+    "id": 6,
+    "currentSide": "front",
+    "frontText": "Opposite of 'high'?",
+    "backText": "Low",
+    "date": "2024-01-05T18:36:11.802Z",
+    "currentStatus": "Learned"
+  },
+  {
+    "id": 7,
+    "currentSide": "front",
+    "frontText": "Number of continents?",
+    "backText": "7",
+    "date": "2024-01-05T18:36:11.802Z",
+    "currentStatus": "Learned"
+  },
+  {
+    "id": 8,
+    "currentSide": "front",
+    "frontText": "Opposite of 'dark'?",
+    "backText": "Light",
+    "date": "2024-01-05T18:36:11.802Z",
+    "currentStatus": "Learned"
+  },
+  {
+    "id": 9,
+    "currentSide": "front",
+    "frontText": "Number of fingers on one hand?",
+    "backText": "5",
+    "date": "2024-01-05T18:36:11.802Z",
+    "currentStatus": "Learned"
+  },
+  {
+    "id": 10,
+    "currentSide": "front",
+    "frontText": "Color of grass?",
+    "backText": "Green",
+    "date": "2024-01-05T18:36:11.802Z",
+    "currentStatus": "Learned"
+  }
+]

@@ -1,0 +1,122 @@
+.card {
+  width: 650px;
+  height: 220px;
+  border-radius: 10px;
+  background-color: rgb(21, 50, 169);
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  transition: 1s;
+  position: relative;
+}
+
+.card > span {
+  font-size: 30px;
+  color: white;
+}
+
+.card > button {
+  position: absolute;
+  bottom: 20px;
+  border: none;
+  width: 80px;
+  height: 35px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 16px;
+  transition: 0.3s all ease-in-out;
+}
+
+.card > button:hover {
+  background-color: rgb(10, 8, 34);
+  color: white;
+}
+
+.card > div {
+  top: 10px;
+  position: absolute;
+  width: 95%;
+  /* border: 1px solid white; */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  color: white;
+}
+
+.cardButtons {
+  display: none !important;
+  /* top: 20px; */
+  right: 20px;
+  /* border: 1px solid red; */
+  position: absolute;
+  width: 10% !important;
+}
+
+.cardButtons button {
+  font-size: 18px;
+  height: 30px;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  z-index: 1;
+}
+
+.card:hover .cardButtons {
+  display: flex !important;
+  flex-direction: column;
+}
+
+.newCard {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 50%;
+  width: 600px;
+  height: 400px;
+  background-color: white;
+  z-index: 2;
+  border-radius: 12px;
+  background-color: rgb(169, 105, 21);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.newCard > div {
+  width: 80%;
+  height: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.newCard > div > label {
+  display: inline-block;
+  width: 40% !important;
+  color: white;
+  font-size: 20px;
+}
+
+.newCard > div > input {
+  border: none;
+  border-radius: 12px;
+  width: 60% !important;
+  text-indent: 6px;
+  height: 40px;
+}
+
+.newCard > div > input:focus-visible {
+  outline: none;
+}
+
+.newCard > div:nth-of-type(3) > select {
+  width: 60%;
+  height: 40px;
+}
+
+.newCard > div:nth-of-type(3) > select:focus-visible {
+  outline: none;
+}
