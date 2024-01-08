@@ -27,5 +27,5 @@ The useEffect() hook in React allows developers to perform side effects in funct
 3. "npx json-server --watch database.json" - Run JSON server...  can be written without "npx" if you have installed json server globally. Server will run at port :3000
 4. "npm run dev" - This command will run the project itself at port :5173.
 
-[Github repo]([https://example.com](https://github.com/tooralscript/wm1-fall2023-ass3)https://github.com/tooralscript/wm1-fall2023-ass3)
+[Github repo]([https://github.com/tooralscript/wm1-fall2023-ass3])
 
