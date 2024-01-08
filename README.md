@@ -19,3 +19,11 @@ The useState() hook is a fundamental React function that enables functional comp
 ## useEffect()
 
 The useEffect() hook in React allows developers to perform side effects in functional components, such as data fetching, subscriptions, or manually changing the DOM, by executing the provided function after every render. It serves as a versatile tool for handling lifecycle events and managing the impact of side effects in React applications.
+
+## Getting started
+
+1. Download this proejct as a zip folder, decompress it, and open in any code editor.
+2. Enter "npm install". It will install node modules, and check dependencies, and if you do not have Vite.js, it will install it as well.
+3. Run JSON server, by entering "npx json-server --watch database.json" or without npx if you have installed json server globally.
+4. Run the project, by entering "npm run dev".
+
