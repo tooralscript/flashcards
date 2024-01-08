@@ -1,6 +1,6 @@
-# React + Vite
+# Web Mobile 1 - Assignment 3 - Flashcards
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a web application, where user can create flashcards and use them for different purposes.
 
 Currently, two official plugins are available:
 
